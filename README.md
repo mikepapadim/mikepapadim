@@ -3,9 +3,9 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
--  **Position :** PhD Candidate
--  **Interests :** JIT Compilation, Managed Runtimes and Code Generation
--  **Software Stack :** Java, python, OpenCL, git, Jenkins, GraalVM
+-  **Position :** PhD Candidate/Software Engineer
+-  **Interests :** JIT Compilation,GPUs, Managed Runtimes and Code Generation
+-  **Software Stack :** Java, Python, OpenCL, Git, Jenkins, GraalVM
 -  **Organization :** The University of Manchester
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
