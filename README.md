@@ -12,5 +12,5 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![mikepapadim Github Stats](https://github-readme-stats.vercel.app/api?username=mikepapadim&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-Page Stats: [![HitCount](http://hits.dwyl.com/mikepapadim/mikepapadim.svg)](http://hits.dwyl.com/mikepapadim/mikepapadim) ![](https://komarev.com/ghpvc/?username=mikepapadim&color=grey)
+Page Stats: ![](https://komarev.com/ghpvc/?username=mikepapadim&color=grey)
 
