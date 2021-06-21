@@ -4,10 +4,10 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
--  **Position :** PhD Candidate/Software Engineer
+-  **Position :**  Senior Software Engineer
 -  **Interests :** JIT Compilation,GPUs, Managed Runtimes and Code Generation
 -  **Software Stack :** Java, Python, OpenCL, Git, Jenkins, GraalVM
--  **Organization :** The University of Manchester
+-  **Organization :** OctoML
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![mikepapadim Github Stats](https://github-readme-stats.vercel.app/api?username=mikepapadim&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
