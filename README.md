@@ -6,7 +6,7 @@
 
 -  **Position :**  Senior Software Engineer
 -  **Interests :** JIT Compilation,GPUs, Managed Runtimes and Code Generation
--  **Software Stack :** Java, Python, OpenCL, Git, Jenkins, GraalVM
+-  **Software Stack :** Java, Python, OpenCL, Git, Jenkins, GraalVM, Apache TVM
 -  **Organization :** OctoML
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
