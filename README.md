@@ -4,7 +4,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
--  **Position :**  Senior Software Engineer
--  **Interests :** JIT Compilation,GPUs, Managed Runtimes and Code Generation
--  **Software Stack :** Java, Python, C++, OpenCL, Git, Jenkins, GraalVM, Apache TVM, TornadoVM
+-  **Position:** Research Fellow | Senior Software Engineer
+-  **Interests:** JIT Compilation, GPUs, Managed Runtimes, Machine Learning Compilers and Code Generation
+-  **Software Stack:** Java, Python, C++, OpenCL, Git, Jenkins, GraalVM, Apache TVM, TornadoVM
 
