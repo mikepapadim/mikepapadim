@@ -8,4 +8,4 @@
 -  **Interests:** JIT Compilation, GPUs, Managed Runtimes, Machine Learning Compilers and Code Generation
 -  **Software Stack:** Java, Python, C++, OpenCL, Git, Jenkins, GraalVM, Apache TVM, TornadoVM
 
-![Metrics](https://metrics.lecoq.io/mikepapadim)
+![mikepapadim's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikepapadim&show_icons=true&theme=dracula)
