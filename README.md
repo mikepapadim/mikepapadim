@@ -11,5 +11,6 @@ I run Java on GPUs — building GPU-accelerated runtimes, enabling the Nvidia Ec
 ### Featured Projects
 -  **[jitLLM](https://github.com/beehive-lab/jitLLM)** — lead author. GPU-accelerated LLM inference (Llama3, Mistral, Qwen, Phi-3, Granite) in pure Java via TornadoVM. OpenCL / CUDA / Metal backends, LangChain4j + Quarkus integration.
 -  **[TornadoVM](https://github.com/beehive-lab/TornadoVM)** — core maintainer. A Java framework for transparently offloading JVM applications to GPUs, FPGAs, and multi-core CPUs without rewriting them in CUDA or OpenCL.
+-  **[mlxVS](https://github.com/mikepapadim/mlxvs)** - author. GPU k-NN search and k-NN graph construction on Apple silicon, built on MLX
 - **[Neo4j](https://github.com/neo4j/neo4j)** — contributor to the Cypher Runtime, working on query execution and performance-critical database runtime components.
 
